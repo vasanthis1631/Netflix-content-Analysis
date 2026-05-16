@@ -4,11 +4,11 @@ An end to end business intelligence solution analyzing Netflix's global content 
 Netflix has one of the largest and most diverse content libraries in the world. As the platform scales, content strategy teams need to answer questions like: Which countries produce the most content? Is Netflix investing more in Movies or TV Shows? How has content volume changed over the years? Which genres and ratings dominate the library?  
 This Power BI dashboard answers exactly those questions. It transforms a flat Netflix titles dataset into an interactive, single-page analytics experience that supports content strategy decisions, regional investment analysis, and audience targeting insights.
 # Technical Stack
-BI Tool       Microsoft Power BI Desktop  
-Data Source   CSV (Netflix Titles — Kaggle)  
-Theme         Custom dark theme — red/black Netflix palette  
-MapVisual     Filled Map  
-Visuals Used  Card, Donut Chart, Area Chart, Bar Chart (×2), Filled Map  
+BI Tool       - Microsoft Power BI Desktop  
+Data Source   - CSV (Netflix Titles - Kaggle)  
+Theme         - Custom dark theme - red/black Netflix palette  
+MapVisual     - Filled Map  
+Visuals Used  - Card, Donut Chart, Area Chart, Bar Chart, Filled Map  
 # Key Insights  
 # 1.Content Volume Explosion Post-2015  
 Netflix's content additions grew steeply from 2015 onward, aligning with their shift to original content production. The dip in 2020–2021 reflects COVID-19 production slowdowns.
