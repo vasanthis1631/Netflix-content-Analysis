@@ -1,4 +1,4 @@
-# Netflix-content-Analysis
+# Netflix-Content-Analysis
 An end to end business intelligence solution analyzing Netflix's global content library across genres, ratings, geography, and release trends , built to simulate how a streaming analytics team would monitor content strategy performance.
 # Project Overview
 Netflix has one of the largest and most diverse content libraries in the world. As the platform scales, content strategy teams need to answer questions like: Which countries produce the most content? Is Netflix investing more in Movies or TV Shows? How has content volume changed over the years? Which genres and ratings dominate the library?  
